@@ -2,3 +2,7 @@
 
 
 this is my professional portfolio. It uses AWS and ReactJS.
+
+## Technolgies used
+SSH
+Git and GitHub
